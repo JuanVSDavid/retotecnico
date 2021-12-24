@@ -1,9 +1,8 @@
-# Getting Started with Create React App
+# Front
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+El Front esta diseñado en React, y esta consumiendo una API restFul y mandando peticiones http para persistir los datos.
+Si lo van a ejecutar en local asegurense que el puerto 8080 este libre para la APi.
 
 ## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
